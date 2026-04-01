@@ -25,10 +25,6 @@ I am a passionate student developer focused on building efficient, real-world ap
 ---
 
 ### 📂 Featured Projects
-
-#### 💎 [Chef Ming Store Meycauayan (POS)](https://github.com/QU73N/JBB_PoS)
-A comprehensive Point of Sale system designed for local business efficiency. Built using C# and MySQL with a focus on intuitive UI/UX.
-
 #### 📅 [OptiSched](https://github.com/QU73N/OptiSched)
 A cross-platform scheduling application designed to optimize student and professional workflows.
 
@@ -40,8 +36,8 @@ A cross-platform scheduling application designed to optimize student and profess
 ---
 
 ### 📫 Connect with me
-* **LinkedIn:** [Your Profile Link]
+* **LinkedIn:** https://www.linkedin.com/in/ace-morgado-91b97b372/
 * **Email:** gamingaceph@gmail.com
-* **Portfolio:** [Link to your domain if you use the GitHub Student Pack!]
+* **Portfolio:** Coming Soon!!
 
 *"Turning logic into solutions, one line at a time."*
