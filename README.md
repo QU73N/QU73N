@@ -1,43 +1,44 @@
-# 👋 Hi, I'm Ace Morgado (QU73N)
+# Ace Morgado | QU73N
 
-**Grade 12 Student | Aspiring Software Engineer** 📍 *STI College Meycauayan*
+## Self-Taught Cybersecurity Learner | Information Technology Student
 
----
+I am an Information Technology student with a strong interest in cybersecurity and software development. As a self-taught cybersecurity learner, I enjoy exploring how systems work, identifying security vulnerabilities, and building software that follows secure development practices.
 
-### 🚀 About Me
-I am a passionate student developer focused on building efficient, real-world applications. Currently balancing my final year of Senior High School with deep-dives into **Software Architecture** and **Full-stack Development**.
-
-* 🔭 **Currently working on:** A cross-platform **Point of Sale (POS) System** (Chef Ming Store).
-* 🌱 **Learning:** Advanced .NET MAUI, React 19, and Cloud Database Management.
-* 🎓 **Education:** Grade 12 - ICT (Information and Communication Technology).
+My GitHub is where I document my learning journey, share personal projects, experiment with new technologies, and continuously improve my skills through hands-on experience.
 
 ---
 
-### 🛠️ Tech Stack
+## About Me
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | C#, Java, JavaScript, Kotlin |
-| **Frontend** | React, HTML5, CSS3 |
-| **Backend** | .NET Core, MySQL, Firebase |
-| **Mobile** | .NET MAUI, Android Studio |
-
----
-
-### 📂 Featured Projects
-#### 📅 [OptiSched](https://github.com/QU73N/OptiSched)
-A cross-platform scheduling application designed to optimize student and professional workflows.
+- Information Technology Student
+- Self-Taught Cybersecurity Learner
+- Programmer
+- Mobile & Web Developer
+- Open Source Enthusiast
+- Lifelong Learner
 
 ---
 
-### 📈 GitHub Stats
-![QU73N's GitHub stats](https://github-readme-stats.vercel.app/api?username=QU73N&show_icons=true&theme=transparent)
+## Areas of Interest
+
+- Cybersecurity
+- Ethical Hacking
+- Penetration Testing
+- Digital Forensics
+- Network Security
+- Linux
+- Secure Software Development
+- Web Development
+- Mobile Application Development
+- Cloud Computing
 
 ---
 
-### 📫 Connect with me
-* **LinkedIn:** https://www.linkedin.com/in/ace-morgado-91b97b372/
-* **Email:** gamingaceph@gmail.com
-* **Portfolio:** Coming Soon!!
+## Current Focus
 
-*"Turning logic into solutions, one line at a time."*
+- Building secure applications
+- Strengthening programming fundamentals
+- Learning offensive and defensive security
+- Practicing Capture The Flag (CTF) challenges
+- Contributing to open-source projects
+- Expanding my Linux and networking knowledge
