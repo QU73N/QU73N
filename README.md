@@ -1,44 +1,54 @@
 # Ace Morgado | QU73N
 
-## Self-Taught Cybersecurity Learner | Information Technology Student
+## Full Stack Developer | Information Technology Student
 
-I am an Information Technology student with a strong interest in cybersecurity and software development. As a self-taught cybersecurity learner, I enjoy exploring how systems work, identifying security vulnerabilities, and building software that follows secure development practices.
+I am an Information Technology student and full stack developer based in Valenzuela City, Philippines, building web applications with React, TypeScript, and Node.js. I focus on turning ideas into working products — from data model to deployed URL.
 
-My GitHub is where I document my learning journey, share personal projects, experiment with new technologies, and continuously improve my skills through hands-on experience.
+My GitHub is where I document my learning journey, share personal projects, and continuously improve my skills through hands-on experience.
 
 ---
 
 ## About Me
 
-- Information Technology Student
-- Self-Taught Cybersecurity Learner
-- Programmer
-- Mobile & Web Developer
+- Information Technology Student at Pamantasan ng Lungsod ng Valenzuela (PLV)
+- Full Stack Developer
+- Web & Frontend Developer
 - Open Source Enthusiast
-- Lifelong Learner
+- Based in Valenzuela City, Philippines
 
 ---
 
-## Areas of Interest
+## Skills
 
-- Cybersecurity
-- Ethical Hacking
-- Penetration Testing
-- Digital Forensics
-- Network Security
-- Linux
-- Secure Software Development
-- Web Development
-- Mobile Application Development
-- Cloud Computing
+**Frontend**: React, TypeScript, JavaScript, HTML & CSS
+**Backend**: Node.js, Express, Java, REST APIs
+**Database**: PostgreSQL, MySQL, MongoDB
+**Tooling**: Git, GitHub, Vercel
+**Familiar with**: Figma, AWS, Firebase
+
+---
+
+## Featured Projects
+
+- **OptiSched** — Web-based scheduling application for building and managing timetables across activities, events, and tasks, with conflict detection built into the interface. Built with React, TypeScript, Node.js, PostgreSQL.
+  Repo: https://github.com/QU73N/optisched
+
+- **StreamVault** — Video streaming platform focused on fast delivery and an organised media library, with no sign-up required to watch. Built with React, Node.js, Express.
+  Repo: https://github.com/QU73N/streamvault
 
 ---
 
 ## Current Focus
 
-- Building secure applications
+- Building full-stack web applications with a schema and API agreed before the first screen
 - Strengthening programming fundamentals
-- Learning offensive and defensive security
-- Practicing Capture The Flag (CTF) challenges
 - Contributing to open-source projects
-- Expanding my Linux and networking knowledge
+- Expanding my Node.js and PostgreSQL knowledge
+
+---
+
+## Contact
+
+- GitHub: [@QU73N](https://github.com/QU73N)
+- Email: morgadoace3@gmail.com
+- Portfolio: https://acemorgado.netlify.app
